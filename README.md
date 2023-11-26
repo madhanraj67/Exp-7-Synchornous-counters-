@@ -118,4 +118,3 @@ Thus Synchornous counters up counter and down counter circuit are studied and th
 
 
 
-### RESULTS 
